@@ -358,10 +358,10 @@ table th .fa-sort-amount-asc{
 .like1{
 	width: 100%;
 	color: #0055a3;
-	font-size: 13px;
+	font-size: 12px;
 }
 .like1 .fa-heart, .like .fa-bullhorn, .like .fa-comments{
-	font-size: 14px; 
+	font-size: 11px; 
 }
 .glyphicon-ban-circle{
 	color: #757575;
